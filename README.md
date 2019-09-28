@@ -34,7 +34,6 @@
 - [WebAssembly](#webassembly)
 
 ## C
-- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator  
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.  
 - [glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.  
 - [avon](https://github.com/ceejbot/avon) - node bindings for the blake2 cryptographic hash  
@@ -1162,6 +1161,7 @@
 - [vuln-regex-detector](https://github.com/davisjam/vuln-regex-detector) - Detect vulnerable regexes in your project. REDOS, catastrophic backtracking.  
 
 ## Python
+- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator  
 - [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more  
 - [psrecord](https://github.com/astrofrog/psrecord) - Record the CPU and memory activity of a process :chart_with_upwards_trend:  
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  
