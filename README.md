@@ -721,7 +721,7 @@
 - [farmhash](https://github.com/lovell/farmhash) - Node.js implementation of FarmHash, Google's family of high performance hash functions  
 - [reload-css](https://github.com/Jam3/reload-css) - Reloads all style sheets in the page associated with a URL  
 - [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)  
-- [prettier-standard](https://github.com/sheerun/prettier-standard) - Prettier and standard brought together! &lt;3  
+- [prettier-standard](https://github.com/sheerun/prettier-standard) - Formats with Prettier and lints with ESLint+Standard! (✿◠‿◠)  
 - [node-toobusy](https://github.com/STRML/node-toobusy) - Don't let your Node.JS server fall over when it's too busy.  
 - [pretty-hot-ranking-algorithm](https://github.com/yoshuawuyts/pretty-hot-ranking-algorithm) - Algorithm that measures how relevant a given data set is, kinda like Reddit  
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.  
